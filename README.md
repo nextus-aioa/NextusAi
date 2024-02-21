@@ -1,5 +1,7 @@
 # NextusAi
 
+https://code.visualstudio.com/download
+
 https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestaticwebapps
 
 https://console.cloud.google.com/apis/library/speech.googleapis.com?hl=fr&project=voice-aioa
